@@ -1,0 +1,26 @@
+{
+  "name": "advancenft",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@chainlink/contracts": "0.5.1",
+    "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers@^0.3.0-beta.10",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "@openzeppelin/contracts": "^5.0.2",
+    "@pinata/sdk": "^2.1.0",
+    "chai": "4.3.4",
+    "ethers": "5.5.4",
+    "hardhat": "^2.22.5",
+    "hardhat-deploy": "^0.12.4",
+    "path": "^0.12.7"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
