@@ -2,3 +2,4 @@ artifacts
 cache
 .env
 node_modules
+deployments

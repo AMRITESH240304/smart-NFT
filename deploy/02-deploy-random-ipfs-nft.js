@@ -57,3 +57,5 @@ async function handleTokenUris(){
     // store the image in IPFS
     return tokenUris
 }
+
+module.exports.tags = ["all","randomIpfs","main"]
